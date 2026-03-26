@@ -8,4 +8,8 @@ plotly==5.16.1
 scipy==1.11.1
 threadpoolctl==3.2.0
 matplotlib==3.8.1
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pygments==2.19.2
+rich==14.3.3
 
