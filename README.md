@@ -62,17 +62,17 @@ The project focuses on analyzing customer behavior, identifying churn drivers, a
 
 ## Visualization Preview
 
-### Churn Analysis
-![Churn Analysis](05_Visuals/churn_analysis.png)
+### Churn Distribution
+![Churn Distribution](05_Visuals/churn_distribution.png)
 
-### Feature Importance
-![Feature Importance](05_Visuals/feature_importance.png)
+### Feature Correlation Heatmap
+![Correlation Heatmap](05_Visuals/correlation_heatmap.png)
 
-### Streamlit Application
-![Streamlit App](05_Visuals/streamlit_dashboard.png)
+### Confusion Matrix
+![Confusion Matrix](05_Visuals/confusion_matrix.png)
 
-## Streamlit Application
-Interactive Streamlit application developed for churn prediction analysis and business insight visualization.
+### ROC Curve
+![ROC Curve](05_Visuals/roc_curve.png)
 
 ---
 
