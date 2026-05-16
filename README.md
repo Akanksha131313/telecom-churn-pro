@@ -63,16 +63,16 @@ The project focuses on analyzing customer behavior, identifying churn drivers, a
 ## Visualization Preview
 
 ### Churn Distribution
-![Churn Distribution](05_Visuals/churn_distribution.png)
+![Churn Distribution](05_visuals/churn_distribution.png)
 
 ### Feature Correlation Heatmap
-![Correlation Heatmap](05_Visuals/correlation_heatmap.png)
+![Correlation Heatmap](05_visuals/correlation_heatmap.png)
 
 ### Confusion Matrix
-![Confusion Matrix](05_Visuals/confusion_matrix.png)
+![Confusion Matrix](05_visuals/confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](05_Visuals/roc_curve.png)
+![ROC Curve](05_visuals/roc_curve.png)
 
 ---
 
