@@ -1,69 +1,78 @@
-**telecom-customer-churn-risk-model :** 
+# Telecom Customer Churn Prediction
 
-**Predict & Retain High-Risk Customers ->**
+Python | Machine Learning | Streamlit | Predictive Analytics
 
-**Why it matters -**
+## Project Overview
+Developed a telecom churn prediction solution to identify customers at high risk of attrition and support data-driven retention strategies using machine learning and exploratory data analysis.
 
-• Helps telecoms reduce revenue loss by proactively identifying high-risk churn customers and understanding the top drivers behind churn.
+The project focuses on analyzing customer behavior, identifying churn drivers, and enabling proactive customer retention planning.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-**Key Metrics & Business Insights -**
+## Business Objectives
+- Identify high-risk churn customers
+- Analyze behavioral patterns contributing to churn
+- Support customer retention decision-making
+- Evaluate factors impacting customer loyalty
 
-• Churn rate: ~49% → significant revenue risk
+---
 
-• Short-tenure churn (<12 months): ~48% → early-stage retention critical
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Jupyter Notebook
 
-• Top drivers: PaymentMethod, TotalCharges, TechSupport → focus areas for retention campaigns
+---
 
-• Model accuracy: 0.37 (limited due to small dataset & class imbalance; insights emphasize actionable trends rather than raw score)
+## Dataset
+- Telecom customer behavioral dataset
+- Customer demographics, service usage, billing, and support-related attributes
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-**Impact on Business -**
+## Technical Implementation
 
-• Prioritize retention campaigns for high-risk customers (~49% churn)
+### Data Processing
+- Data cleaning and preprocessing
+- Handling missing values and categorical encoding
+- Feature engineering and transformation
 
-• Target short-tenure customers to reduce early churn (~48%)
+### Machine Learning
+- Churn classification modeling
+- Feature importance analysis
+- Model evaluation and prediction workflow
 
-• Leverage top churn drivers to refine offers, support, and engagement strategies
+### Visualization & Insights
+- Customer churn trend analysis
+- Behavioral segmentation
+- Retention-focused business insights
 
-• Enable data-driven decision making for customer retention initiatives
+---
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Key Insights
+- Identified high-risk churn customer segments
+- Detected elevated churn among short-tenure customers
+- Analyzed customer service and billing-related churn drivers
+- Supported proactive retention strategy planning
 
-**Project Structure -**
+---
 
-• src/       → Python modules: 01_data_processing, 02_model_evaluation, 03_model_training
+## Streamlit Application
+Interactive Streamlit application developed for churn prediction analysis and business insight visualization.
 
-• data/      → telecom_churn_dataset_utf8.csv
+---
 
-• notebook/  → Interactive Colab/Jupyter analysis
+## Repository Contents
+- Dataset
+- Jupyter Notebook
+- Source Code
+- Streamlit Application
+- Requirements File
 
-• requirements.txt → Dependencies for reproducibility
+---
 
-• README.md  → Project overview & instructions
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Quick Start -**
-
-1. Place dataset → data/telecom_churn_dataset_utf8.csv
-
-2. Run 01_data_processing.py → clean & prepare data
-
-3. Run 03_model_training.py → train model & print dynamic business insights
-
-4. Optional: 02_model_evaluation.py → visualize metrics & confusion matrix
-
-5. Open notebook → notebook/telecom_churn_analysis.ipynb for interactive analysis
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Keywords for ATS-**
-
-Telecom, churn prediction, Logistic Regression, feature importance, retention strategy, predictive model, classification report, confusion matrix, customer lifetime value
-
-
-Optimized for recruiter quick scan and ATS compliance.
-Emphasizes business impact, actionable insights, and practical application of predictive modeling.
+## Skills Demonstrated
+Python • Machine Learning • Predictive Analytics • Data Cleaning • EDA • Feature Engineering • Streamlit • Customer Analytics • Business Intelligence
