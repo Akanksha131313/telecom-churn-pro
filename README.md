@@ -60,6 +60,17 @@ The project focuses on analyzing customer behavior, identifying churn drivers, a
 
 ---
 
+## Visualization Preview
+
+### Churn Analysis
+![Churn Analysis](05_Visuals/churn_analysis.png)
+
+### Feature Importance
+![Feature Importance](05_Visuals/feature_importance.png)
+
+### Streamlit Application
+![Streamlit App](05_Visuals/streamlit_dashboard.png)
+
 ## Streamlit Application
 Interactive Streamlit application developed for churn prediction analysis and business insight visualization.
 
